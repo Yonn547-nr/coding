@@ -4,7 +4,7 @@ def menambah(x, y):
 def kurang(x, y):
     return x - y
 
-def kali(x, y):
+def mengkali(x, y):
     return x * y
 
 def bagi(x, y):
