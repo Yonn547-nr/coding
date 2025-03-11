@@ -21,7 +21,7 @@ def kalkulator():
         print("4. Pembagian")
         print("5. Keluar")
 
-        pilihan = input("Masukkan pilihan (1/2/3/4/5): ")
+        pilihan = input("Masukkan pemilihan (1/2/3/4/5): ")
 
         if pilihan == '5':
             print("Terima kasih telah menggunakan kalkulator. Sampai jumpa!")
