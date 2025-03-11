@@ -1,4 +1,4 @@
-def tambah(x, y):
+def menambah(x, y):
     return x + y
 
 def kurang(x, y):
